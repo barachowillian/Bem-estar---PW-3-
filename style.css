@@ -26,7 +26,8 @@ h1 {
 
 .mensagem-inicial {
   color: #555;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  font-weight: bold;
 }
 
 input {
